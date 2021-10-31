@@ -1,6 +1,6 @@
 
 - 🔭 Trabalhando como Desenvolvedor Web FullStack Jr.  
-- 🌱 Aprendendo Typescript e melhorando meus conhecimentos para logo decidir minha especialização front-end ou back-end.
+- 🌱 Aprendendo Typescript.
  <div>
   <a href="https://github.com/lucasrozalem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrozalem&show_icons=true&count_private=true"/>
