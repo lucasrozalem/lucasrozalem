@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Lucas Rozalem</h1>
+
 ### Talking about Personal Stuffs:
 
 - 🎓 I'm a Computer Scientist;
