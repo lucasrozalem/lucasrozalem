@@ -1,8 +1,8 @@
 
-Talking about Personal Stuffs:
-🎓 I'm a Computer Scientist;
-🚀 I’m currently learning typescript;
-🔭 I work as a front-end Developer Jr.; 
+Talking about Personal Stuffs:</br>
+🎓 I'm a Computer Scientist;</br>
+🚀 I’m currently learning typescript;</br>
+🔭 I work as a front-end Developer Jr.; </br>
 
  <div>
   <a href="https://github.com/lucasrozalem">
