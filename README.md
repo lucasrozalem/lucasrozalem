@@ -1,7 +1,7 @@
 ### Talking about Personal Stuffs:
 
 - 🎓 I'm a Computer Scientist;
-- 🚀 I’m currently learning everything;
+- 🚀 I’m currently learning typescript;
 - 🔭 I work as a front-end Developer Jr.;
 
  <div>
