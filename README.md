@@ -4,7 +4,7 @@
 
 - 🎓 I'm a Computer Scientist;
 - 🚀 I’m currently learning typescript;
-- 🔭 I work as a front-end Developer Jr.;
+- 🔭 I work as a front-end Developer;
 
  <div>
   <a href="https://github.com/lucasrozalem">
