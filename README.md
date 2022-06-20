@@ -1,6 +1,9 @@
 
-- 🔭 Trabalho como Desenvolvedor Web FrontEnd Jr.  
-- 🌱 Aprendendo Typescript.
+Talking about Personal Stuffs:
+🎓 I'm a Computer Scientist;
+🚀 I’m currently learning typescript;
+🔭 I work as a front-end Developer Jr.; 
+
  <div>
   <a href="https://github.com/lucasrozalem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrozalem&show_icons=true&count_private=true"/>
