@@ -3,7 +3,6 @@
 ### Talking about Personal Stuffs:
 
 - 🎓 I'm a Computer Scientist;
-- 🚀 I’m currently learning typescript;
 - 🔭 I work as a front-end Developer;
 
  <div>
